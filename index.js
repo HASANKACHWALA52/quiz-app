@@ -1,9 +1,9 @@
 const correctAnswers = {
-    q1: 'Paris',
-    q2: 'Pacific',
-    q3: 'Harper Lee',
-    q4: 'Au',
-    q5: 'Diamond'
+    q1: 'Angular JS',
+    q2: '?',
+    q3: 'Rasmus Lerdorf',
+    q4: 'concat',
+    q5: '<>'
 };
 
 function submitQuiz() {
